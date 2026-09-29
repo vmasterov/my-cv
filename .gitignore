@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+.idea
+.tmp
+.vscode
+yarn-error.log
+.env
+bootstrap
+.eslintcache
+get_release.zsh
+docker-compose.override.yml
+.DS_Store
