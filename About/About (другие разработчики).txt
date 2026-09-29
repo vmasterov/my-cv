@@ -1,0 +1,183 @@
+About
+Senior Frontend Engineer with 5+ years of experience building scalable enterprise web applications for the banking and energy sectors.
+
+Currently developing blockchain-powered financial products at Sber, where I design and implement complex frontend solutions for digital financial assets, corporate banking, and contract management platforms.
+
+My expertise includes React, TypeScript, application architecture, performance optimization, and building maintainable frontend ecosystems. I enjoy solving complex business problems, improving developer experience, and turning legacy codebases into modern, scalable applications.
+
+Highlights:
+• Built blockchain-enabled financial products used in production
+• Reduced page loading time from 10s to 4s through architecture improvements
+• Increased unit test coverage from 23% to 68%
+• Led migration from Redux to Redux Toolkit
+• Implemented cryptographic integrations (CryptoPro, digital signatures)
+• Contributed to internal UI libraries and engineering standards
+• Performed code reviews, mentoring, and architecture discussions
+
+Core technologies:
+React • TypeScript • Next.js • Redux Toolkit • React Query • GraphQL • Module Federation • Jest • REST APIs • CI/CD • Performance Optimization • Frontend Architecture
+I'm open to remote international opportunities where I can contribute to high-impact products and collaborate with strong engineering teams.
+
+
+---
+
+
+About
+Frontend Engineer with 7+ years of experience building and scaling enterprise web applications using React, Angular, TypeScript, RxJS, and Nx. Strong focus on frontend architecture, platform engineering, and performance. Led frontend teams of up to 6 engineers and contributed in organizations of 40+ members across fintech, telecom, and consulting domains in Europe, the Middle East, and Asia. Led a large-scale frontend migration during the merger of two international banks, defining architectural standards and improving delivery efficiency across legacy and modern systems, with measurable performance gains of 20%.
+
+Frontend: React, Angular, TypeScript, RxJs
+Architecture: MVVM, Nx Monorepo
+State management: NgRx
+UI libraries: Ant Design, Bootstrap, PrimeNG, AG Grid, UiKit
+Data visualization: Apache ECharts, vis.js network, Yandex Maps
+Testing: Jest
+Internationalization: i18n, ngx-translate
+Accessibility & UX: a11y, User Experience (UX)
+Dev tools & infrastructure: GitLab, Team Foundation Server (TFS), Storybook
+Design: Figma
+API & documentation: swagger
+Processes: Backlog refinement, TBD
+
+Open to relocation.
+📧Feel free to contact me: serikov.evgene@gmail.com
+
+
+---
+
+
+About
+Frontend Engineer with 5+ years of total experience, specializing in modern Angular (v16–22) enterprise application development. Former education mentor at Yandex Practicum
+
+Key Expertise:
+• Core Tech: Angular 16-22, TypeScript, RxJS, Angular Signals, HTML/CSS, Tailwind, SSR
+• State Management: NgRx, NgRx SignalStore (experience migrating complex state)
+• UI & Architecture: Custom Design Systems, Angular Material, i18n (LTR/RTL), MapTiler/GeoJSON, ProseMirror custom editors
+• Testing & Performance: Cypress (E2E), Jest, SSR optimization, bundle size reduction (by 33%), Lighthouse audits (performance from 40 to 80)
+
+📍 Current Location: Georgia (GMT+4)
+✈️ Open to: Remote | On-site in Tbilisi | Relocation
+
+Open to challenging contract or permanent roles in dynamic Agile teams. Let's connect!
+
+
+---
+
+
+About
+Frontend Engineer with 5.5+ years of experience building high-load B2C products (5M+ MAU). I specialize in scalable frontend architectures, microfrontends, and leading cross-functional teams.
+
+- Launched microfrontend architecture from scratch (Module Federation), enabling independent team development. 
+- Led teams of up to 10 developers: planning, decomposition, code reviews, and delivery ownership. 
+- Improved performance and business metrics: -50% first paint, +9% conversion. 
+- Boosted test coverage from 10% to 80%, introduced unified coding standards and automation.
+
+Core stack: React, TypeScript, Next.js, Vue 3, Module Federation.
+
+Open to global relocation and remote opportunities.
+
+
+---
+
+
+About
+I am a Senior Frontend Engineer with 5+ years of experience building large-scale FinTech and enterprise web platforms with React, TypeScript, and Next.js.
+My core expertise is frontend architecture, complex SPA development, design systems, web performance, and building maintainable applications for products used by hundreds of thousands of users.
+Throughout my career, I have worked on high-load financial platforms, internal business systems, customer-facing applications, reusable UI platforms, and large-scale frontend architecture. I have also led technical initiatives, contributed to engineering standards, mentored developers, and helped teams improve code quality and delivery processes.
+My experience includes:
+• React, TypeScript, Next.js
+• Frontend Architecture and System Design
+• Design Systems and reusable UI platforms
+• Web Performance and application scalability
+• State management and server-state synchronization
+• Testing and engineering quality
+• Technical leadership and mentoring
+• FinTech and enterprise product development
+More recently, I have been expanding beyond frontend by designing production-oriented backend services with ASP.NET Core.
+My current backend focus includes authentication and authorization, distributed systems, PostgreSQL, Redis, RabbitMQ, Docker, observability, and service architecture.
+I enjoy solving architectural problems, reducing unnecessary complexity, improving engineering processes, and building systems that remain understandable and maintainable as products and teams grow.
+I am currently open to Senior Frontend Engineer, Frontend Engineer, Full Stack Engineer, and Software Engineer opportunities across Europe.
+Quick contact: https://t.me/Mankeym
+
+
+---
+
+
+About
+I’m Artem Belkin, a Senior Fullstack Engineer with 8+ years of experience building web products across SaaS, CMS/editor tooling, and digital banking domains.
+My core focus is React, TypeScript, Next.js, Node.js, and Nest.js. I work across both frontend and backend boundaries, building scalable user interfaces, API integrations, micro-frontend systems, internal tooling, and high-performance product experiences.
+Over the years, I’ve worked on complex platforms where product quality, speed, and maintainability matter. My experience includes building CMS and editor tooling for content-heavy systems with 100,000+ items, as well as user-facing banking experiences serving 90,000+ monthly active users. I care a lot about performance optimization, clean architecture, reliable state management, and creating interfaces that remain maintainable as products grow.
+I’m especially interested in modern fullstack product development: React and Next.js on the frontend, Node.js and Nest.js on the backend, micro-frontends, AI-powered interfaces, and practical engineering workflows that improve delivery without sacrificing quality.
+Core stack: React, TypeScript, Next.js, Node.js, Nest.js, JavaScript, micro-frontends, REST API, performance optimization, scalable UI systems, and product-focused engineering.
+I’m open to Senior Fullstack Engineer, Senior Frontend Engineer, and Software Engineer opportunities where I can help build strong product systems, improve engineering quality, and ship useful user-facing experiences.
+
+
+---
+
+
+About
+Seasoned Senior Frontend Developer with a Master's in computer science and 10 of experience building digital products from scratch, driving technical solutions, breaking down problems into clear, actionable solutions in FinTech(over 10 million users), eCommerce(over 150 million ads), and EdTech(over 10 million users).
+
+Focused on implementing process improvements and leveraging AI tools to enhance code quality, team velocity, and overall product impact.
+Applied AI prompts engineering skills to improve productivity, accelerate solution architecture design, frontend prototyping, and technical documentation, reducing development overhead.
+
+Driving technical solutions, leading engineering teams of 7 people, building and launching complex projects under tight deadlines. 
+With hands-on experience in mentoring, hiring, and growing frontend engineers.
+
+I'm currently open to opportunities as a Senior Frontend Engineer or a Frontend Team Lead in agile, product-driven, international companies.
+I value teams where engineers are proactive, collaborative, and wants to contribute to their work.
+
+If my experience and interests coincide with yours, I will be glad to talk!
+
+Feel free to book a time slot or reach out to me directly.
+https://calendly.com/taova-marina-interview
+
+
+✉️ m.taova@proton.me
+📲 WhatsApp: +382 68 633 036
+📲 Telegram: https://t.me/mtaova
+	
+HARD SKILLS:
+Languages: JavaScript (ES6+), TypeScript, HTML 5, CSS3 (SASS/LESS).
+AI Prompt Engineering:  Generative AI Prompting (5-step framework, iteration & evaluation), Prompt Chaining & Versioning, Multimodal Prompting, Generative AI Agents, AI-Driven Data Analysis, AI-Enhanced Document Management.
+Technologies: React.js, Vue.js, Next.js(SSR), Redux, Mobx, Styled Components, WebSockets, Node.js, Nest.js, jQuery, microservices and monolithic architectures.
+Testing: Jest, React Testing Library, Cypress, Playwright.
+Tools: CI/CD, NPM, Vite, Webpack, Kubernetes, Git, Bitbucket, Gitlab, Jira, Prettier. 
+Methodology: Agile (Scrum), startup experience, business impact-oriented, ownership mindset.
+
+
+SOFT SKILLS:
+Technical Leadership: Project ownership, architecture decisions, code reviews, cross-team communication.
+Team Management: Hiring, mentoring, onboarding, 1:1s, development plans.
+Soft skills: Ownership mindset, collaboration, product focus, communication, time management.
+
+Languages: English (B2), Russian (Native).
+
+
+---
+
+
+About
+With 10+ years in frontend engineering, I build scalable, user-focused web applications. Over the last 5 years at Deel, I’ve focused on fintech.
+
+I lead frontend development for PayIns, owning architecture and delivering reliable payment experiences at scale.
+
+I work closely with cross-functional teams to turn complex requirements into clean, maintainable solutions using React, TypeScript, and TanStack Query.
+
+Beyond delivery, I focus on:
+• raising engineering standards
+• mentoring engineers
+• shaping systems for long-term sustainability
+
+I also collaborate on backend services (Node.js, PostgreSQL) to ensure strong end-to-end systems.
+
+
+---
+
+
+About
+I’m Egor Novikov, a Senior Fullstack Developer with 8+ years of experience building high-load applications across crypto, iGaming, and consumer finance.
+My core focus is React, TypeScript, Next.js, Node.js, micro-frontends, real-time systems, Web3 integrations, and performance optimization. I work across frontend and backend boundaries, building scalable product interfaces, BFF layers, middleware, payment flows, white-label platforms, shared UI kits, and real-time dashboards.
+I’ve worked on products serving 100K+ daily players, 8+ brand-specific apps, 15+ game providers, and real-time interfaces processing thousands of events per second. My experience includes crypto payment UIs, on-chain deposits and withdrawals, live sports market dashboards, AML/KYC flows, embedded payment widgets, suspicious activity monitoring, and shared UI systems for multi-brand platforms.
+I care about frontend architecture, clean service boundaries, reliable state management, performance, secure authentication flows, testing, and practical AI-assisted development workflows.
+Core stack: React, TypeScript, Next.js, Node.js, Express.js, WebSockets, SSE, Module Federation, TanStack Query, Redux Toolkit, Material UI, AWS S3, CloudFront, Docker, GitLab CI, Playwright, OpenAI Codex, Claude Sonnet, and GitHub Copilot.
+I’m open to Senior Fullstack Developer, Senior Frontend Developer, Fullstack Engineer, and Software Engineer roles where I can help build scalable user-facing products, high-load platforms, Web3 payment flows, and real-time systems.

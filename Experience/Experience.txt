@@ -1,0 +1,84 @@
+Senior Frontend Engineer
+TVIL.RU · Mar 2026 – Present
+
+High-traffic accommodation booking platform (1M+ monthly visits, ~730 Vue components), undergoing an incremental migration from Nuxt 2 to Nuxt 3.
+
+• Re-architected the referral program flow: 10+ modals (sign-in, sign-up, verification, business accounts, error states) moved to a single scenario-driven model. Rolled it out behind a feature flag, then enabled it globally
+• Shipped features across legacy and migrated layers (Vuex + Pinia, Options + Composition API) and moved components to TypeScript as part of the migration
+• Removed race conditions in the post-login user mode (guest / host) by splitting detection into two phases, reset on state restore from SSR or localStorage and calculation after the user loads
+• Covered key user flows with Playwright E2E tests on desktop and mobile
+
+Stack: Vue 2/3 • Nuxt 2/3 • TypeScript • Pinia • Vuex • SCSS • Playwright • Docker
+
+
+Senior Frontend Engineer
+B1 Group (formerly EY in Russia) · Aug 2023 – Mar 2026
+
+Enterprise software for industrial clients: production management, KPI analytics, field telemetry.
+
+• Led a production-management platform for an industrial manufacturer end-to-end, from UI design to delivery, heading a team of 3
+• Built role-based interfaces: KPI dashboards and daily / weekly performance boards for plant management, digital shop-floor routines for operators replacing paper workflows
+• Wrote requirements and user flows for the Standards Library (SOPs) and led its development on server-driven dynamic forms: the client maps incoming data to UI components, validates it and assembles the payload
+• Built Checklists on top of the Standards Library: SOPs chained into ordered actions with a day / shift execution grid, where available actions depend on each step's state
+• Cut frontend delivery time by ~25% with a task-decomposition template and an MCP server that records key milestones, so AI tools restore context between sessions
+• Integrated real-time vehicle telemetry and tracking on Yandex Maps for an oilfield services client
+
+Stack: React • TypeScript • TanStack Query • Zustand • Vite • Vitest • Playwright • Yandex Maps
+
+
+Senior Frontend Engineer
+Think 24 · Jul 2022 – Aug 2023
+
+EdTech company helping high-school students choose a career and get into university (100+ employees, 2,000+ career assessments a year).
+
+• Built a timezone-aware scheduling module: a Gantt-style schedule recalculated for each user's timezone, accounting for weekends, holidays and time of day, which reduced support requests
+• Delivered the frontend of an entrance testing service, launching one week ahead of schedule
+• Aligned requirements directly with business stakeholders
+
+Stack: React • TypeScript • Zustand • Vite • Jest
+
+
+Frontend Engineer
+TVIL.RU · Jul 2020 – Jul 2022
+
+High-traffic accommodation booking platform (1M+ monthly visits).
+
+• Led a team of 2 on the payment page and a new search filter system (API v3 filter model, filter state restored from URL and SEO slugs), raising conversion by ~15%
+• Built the owner-side booking calendar as a standalone module with its own Vuex store (room availability grid, check-ins, quotas, minimum stay, channel-manager warnings), increasing bookings by ~23%
+• Adapted the product for a white-label partner channel: referrer-based user detection, partner branding, channel choice at booking, channel-aware analytics
+• Extracted SSR page caching into a custom Nuxt module with logging, added a no-JS mode and crawler-specific rendering for SEO
+
+Stack: Vue 2 • Nuxt 2 • SSR • JavaScript • Vuex • SCSS
+
+
+Frontend Engineer
+Bank Information Systems · Jan 2020 – Jun 2020
+
+Internal software for the banking sector.
+
+• Migrated the UI of an internal banking application from legacy Progress 4GL to React, improving performance by ~30% and simplifying maintenance
+• Adapted the UI to internal banking processes and integrated it with corporate APIs
+
+Stack: React • JavaScript
+
+
+Frontend Developer
+One Touch · Jul 2017 – Dec 2019
+
+Web studio delivering sites and components for client projects.
+
+• Built an accessibility component for visually impaired users in React, later packaged and sold as a standalone product
+• Delivered 20+ client websites and a set of reusable templates for new projects
+
+Stack: JavaScript • jQuery • React • HTML / CSS
+
+
+Web Developer
+Belgorod University of Cooperation, Economics and Law · Aug 2009 – Jul 2017
+
+University web services and internal process automation.
+
+• Built the frontend of a campus navigation system, reducing student lateness by ~10%
+• Created a doc → HTML converter that cut content publishing time on the university website by ~40%
+
+Stack: JavaScript • HTML / CSS

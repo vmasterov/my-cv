@@ -1,0 +1,21 @@
+Senior Frontend Engineer with 6+ years of commercial experience in React and Vue, working with JavaScript since 2009. I build high-traffic B2C products in travel, as well as B2B enterprise systems for manufacturing.
+
+Currently working on a high-traffic accommodation booking platform (1M+ monthly visits), shipping product features in Vue / Nuxt during an incremental Nuxt 2 → 3 migration.
+
+Highlights:
+
+Booking platform · B2C
+• +23% bookings with an owner-side booking calendar for managing room availability
+• +15% conversion on the payment page and search filters, leading a team of 2
+• Re-architected a 10+ modal referral flow into a single scenario-driven model, shipped behind feature flags
+
+Manufacturing performance platform · B2B enterprise
+• Led the project end-to-end, heading a team of 3: KPI dashboards for management, shop-floor workflows for operators
+• Built an SOP editor on server-driven dynamic forms: the UI is assembled at runtime from server data, with validation and payload assembly on the client
+• −25% frontend delivery time with an MCP-based AI workflow that restores context between sessions
+
+Core stack:
+Vue 2/3 • Nuxt 2/3 • React • TanStack Query • TypeScript • Pinia • SSR • Playwright • Vitest • AI-assisted development
+
+📍 Russia (GMT+3) · Open to Senior / Lead Frontend roles, remote or relocation
+✉️ Telegram: @Vladimir_Masterov
