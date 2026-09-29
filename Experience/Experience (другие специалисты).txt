@@ -1,0 +1,941 @@
+Experience
+TYMY logo
+Senior Frontend Engineer
+
+TYMY · Full-time
+
+Aug 2025 - Present · 1 yr 2 mos
+
+Remote
+
+I am working on an agent network aggregator platform at TYMY:
+
+- contributed to improvements that make apps load faster and improve the user experience;
+- developed a UI Kit for consistent user interface design;
+- implemented a modular architecture for better code maintainability and scalability;
+- developed a progressive web application for cross-platform compatibility and reduced mobile development costs;
+
+Thumbnail for SaaS решение для развития продаж через агентскую сеть
+SaaS решение для развития продаж через агентскую сеть
+
+ React, TypeScript and +9 skills
+
+DOM.RF Bank / Банк ДОМ.РФ logo
+Lead Frontend Engineer  | React, TypeScript
+
+DOM.RF Bank / Банк ДОМ.РФ · Full-time
+
+Dec 2022 - Aug 2025 · 2 yrs 9 mos
+
+Moscow City, Russia · Remote
+
+Key Application & DBO Systems Development for DOM.RF Bank (500K+ clients)
+Projects Delivered:
+
+Built the core Internet Banking platform & customer portal from scratch – my.domrfbank.ru.
+
+Flagship real estate and mortgage application for individuals/legal entities – дом.рф.
+
+Developer-facing property catalog app for DOM.RF’s construction division, driving client acquisition.
+
+Achievements & Impact:
+Developed a deposit calculator and online account opening feature (React) with dynamic yield logic (term, amount, currency, replenishment, capitalization). Result: Reduced in-branch workload by enabling 5–10 min fully digital onboarding.
+
+Built a housing market analytics dashboard (React + ApexCharts), featuring price index visualization by region, time/housing type filters, and XLS report export. Result: Enabled data-driven decision-making for large-scale market analysis.
+
+Implemented a step-by-step mortgage escrow account application (React Hook Form) with document uploads and automated approval workflows. Result: Cut account opening time by 50% through full process digitization.
+
+Led UI-Kit development for core apps (React/TypeScript): Managed task delegation, stakeholder alignment, and reusable component design. Impact: Components adopted across 5+ bank projects, reducing redundancy.
+
+Spearheaded migration from Webpack to RSpack after technical research. Result: 2–3x faster CI/CD pipelines, builds, and deployments.
+
+Created a corporate UI-Kit (React/TypeScript) as an npm package with Storybook, SSR/SPA support. Impact: Unified design system across key applications, eliminating logic duplication.
+
+Ported critical Internet Banking features to a new PWA (React, TypeScript, SWR) with caching/offline modes. Result: Mitigated App Store/Play Store dependency risks for core services.
+
+Introduced unit testing (Jest + React Testing Library), established test environments. Impact: Improved codebase stability and reliability.
+
+Thumbnail for Банк ДОМ.РФ - универсальный ипотечно-строительный банк
+Банк ДОМ.РФ - универсальный ипотечно-строительный банк
+
+ JavaScript, Webpack and +18 skills
+
+Middle Frontend Engineer  | React, TypeScript
+
+Recifra · Full-time
+
+Mar 2021 - Dec 2022 · 1 yr 10 mos
+
+Khanty-Mansiysk, Khanty-Mansi, Russia · On-site
+
+Experience with E-Commerce, FinTech Portals, CRM & ERP Systems
+Key Projects Delivered:
+
+"My Business" Service Portal – A platform providing support for small and medium-sized enterprises (SMEs) in the Khanty-Mansi Autonomous Okrug (Yugra).
+
+Investment Portal for Businesses in KhMAO – A digital solution facilitating regional business investments.
+
+Restaurant Chain Automation Suite – A comprehensive system including:
+
+A CRM for order management and customer base administration.
+
+A financial accounting system for revenue/expense tracking and sales analytics across locations.
+
+Achievements & Impact:
+Built a 3-step multistep business subsidy application form (React) with validation, document uploads, and dynamic fields. Result: Automated a previously paper-based process for legal entities.
+
+Implemented real-time notifications (SSE – Server-Sent Events) in the CRM to alert users about new orders or status changes. Impact: Enhanced operational efficiency for staff.
+
+Optimized performance by:
+
+Integrating WebVitals for metric monitoring.
+
+Virtualizing tables via react-virtualized and implementing infinity scroll + dynamic component loading (React.lazy). Result: Smooth handling of 500+ row datasets and faster load times.
+
+Developed order history tables (@tanstack/react-table) with debounced search, sorting, pagination, and filters. Impact: Streamlined large-data workflows for employees.
+
+Led responsive, accessibility-first development (SCSS/CSS), collaborating with designers to ensure mobile/desktop compatibility.
+
+Conducted code reviews, wrote unit tests (Jest + React Testing Library), and integrated third-party APIs (Yandex Maps, reCAPTCHA).
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+Experience
+Webflow logo
+Senior Fullstack Engineer
+
+Webflow · Full-time
+
+May 2022 - Present · 4 yrs 5 mos
+
+USA, Remote · Remote
+
+As a Senior Fullstack Engineer at Webflow, I work on visual web development, CMS/editor tooling, AI-powered interfaces, micro-frontend architecture, real-time collaboration, publishing infrastructure, and performance optimization.
+Key achievements:
+• Built the AI Assistant’s prompt-to-section flow with streaming generation over SSE and a multi-variant preview-and-insert canvas UX, adopted in 14% of eligible beta sessions.
+• Led the split of the Designer frontend into domain-owned, independently built packages with Module Federation, giving 3 squads clearer ownership and reducing shared-build breakages.
+• Extracted the site-publishing build stage from the monolith into a Nest.js service consuming Kafka build events.
+• Cut median build-stage time from 22s to 9s through parallel asset processing.
+• Shipped an AWS asset pipeline for AI-generated media on S3 and CloudFront with automated compression.
+• Ran team services on EKS via Terraform, reducing median image load by 34% and payload weight by 41%.
+• Rebuilt the enterprise CMS collection view with RTK Query caching and TanStack Virtual.
+• Kept collections of 100,000+ items responsive and reduced view-load from 4s to under 1s.
+• Delivered canvas presence for the real-time collaboration beta using WebSockets and Zustand session state.
+• Validated active-user highlighting and avatars for up to 10 concurrent users at sub-second latency.
+• Developed a Node.js retrieval layer that assembles classes, variables, and style guide data into structured context with LangChain.
+• Added AI-assisted advisory checks to CI alongside type checks and contract tests, cutting routine review round-trips by 22%.
+Technologies: React, TypeScript, Next.js, Node.js, Nest.js, SSE, WebSockets, Zustand, RTK Query, TanStack Virtual, Module Federation, Kafka, AWS S3, CloudFront, EKS, Terraform, LangChain, CI, contract testing.
+
+Thumbnail for Webflow: The agentic web platform for modern businesses
+Webflow: The agentic web platform for modern businesses
+
+ Frontend, React and +1 skill
+
+Societe Generale logo
+Senior Fullstack Developer
+
+Societe Generale · Full-time
+
+Apr 2020 - May 2022 · 2 yrs 2 mos
+
+Remote
+
+As a Senior Fullstack Developer at Société Générale, I worked on retail banking products, loan and mortgage application flows, authentication, GraphQL aggregation, real-time payment status, performance optimization, and testing coverage.
+Key achievements:
+• Created the retail loan and mortgage application in React and Redux Saga across 40+ decision scenarios.
+• Increased funnel completion by 18% after the redesign.
+• Implemented OAuth2 and OIDC authentication via Keycloak with JWT-based RBAC.
+• Supported GDPR-aligned PII handling and reduced auth-related support incidents by 24%.
+• Developed a GraphQL aggregation service with Redis caching on the bank’s internal infrastructure.
+• Reduced client round-trips and dashboard latency by 38%.
+• Migrated public product pages from client-side rendering to SSR with Next.js and React Query.
+• Fixed hydration issues and cut initial load time by 27%.
+• Delivered real-time payment and transfer status updates over WebSockets for 90,000 monthly active users.
+• Tuned PostgreSQL queries and composite indexes behind onboarding search.
+• Reduced p95 read latency from 310ms to 75ms and enabled historical application search.
+• Raised Jest coverage from 64% to 87%.
+• Added Playwright E2E tests for critical payment and authentication flows, reducing pre-release regressions on those flows by 34%.
+Technologies: React, TypeScript, Next.js, Node.js, Redux Saga, React Query, GraphQL, Redis, WebSockets, PostgreSQL, OAuth2, OIDC, Keycloak, JWT, RBAC, GDPR, Jest, Playwright.
+
+ Typescript, JavaScript and +10 skills
+
+Intel logo
+Software Engineer
+
+Intel · Full-time
+
+May 2018 - Apr 2020 · 2 yrs
+
+Remote
+
+As a Software Engineer at Intel, I worked on internal enterprise web platforms, reusable frontend systems, reporting automation, telemetry dashboards, and performance improvements for engineering and operations teams.
+Key achievements:
+• Built a reusable React and TypeScript component library with Storybook.
+• Supported adoption across 5 internal applications and removed 12,000 lines of duplicated markup.
+• Developed modules for an internal enterprise web platform with Redux state management.
+• Improved workflow efficiency for 600 internal users.
+• Refactored legacy class components, including a MobX module, to React hooks.
+• Fixed leaked subscriptions and reduced render time on heavy screens by 38%.
+• Automated weekly reporting with a Node.js and Express service on Azure.
+• Reduced a manual reporting task from 6 hours to 30 minutes.
+• Delivered a live telemetry dashboard with a Node.js backend and Recharts frontend.
+• Helped 150 operations engineers get sub-2s refresh on system-health metrics.
+Technologies: React, TypeScript, JavaScript, Storybook, Redux, MobX, React Hooks, Node.js, Express.js, Azure, Recharts, component libraries, internal tooling, telemetry dashboards.
+
+ Redux, VueJS and +3 skills
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+
+Experience
+
+AppFollow logo
+Senior Software Engineer
+
+AppFollow · Full-time
+
+Nov 2025 - Present · 11 mos
+
+Valencian Community, Spain · Remote
+
+ AI Prompt Engineering, React and +1 skill
+
+Senior Frontend Engineer
+
+Freelance · Part-time
+
+Mar 2025 - Present · 1 yr 7 mos
+
+Spain · Remote
+
+- Built a scalable and user-friendly interface for clinical data, improving navigation and UX, which significantly reduced support requests.
+- Completed Google courses in AI prompt engineering, including generative high-impact prompting, prompt chaining, multimodal prompting, and generative AI agents.
+- Applied AI prompts engineering skills to improve productivity, accelerate solution architecture design, frontend prototyping, and technical documentation, reducing development overhead.
+
+ AI Prompting, React and +9 skills
+
+Tabby logo
+Senior Software Engineer
+
+Tabby · Contract
+
+Jul 2024 - Jan 2025 · 7 mos
+
+Dubai, United Arab Emirates · Remote
+
+- Enhanced system stability and maintainability by reducing production errors by 30% and ensuring a more reliable and robust codebase by implementing strict type checking during the project's build process,  improving code quality, fixing critical issues, and monitoring services.
+- Prevented significant revenue loss by actively monitoring services, identifying and resolving a critical payment issue that blocked customer transactions.
+- Increased revenue and financial stability by reducing overdue payments by 8% and boosting early payments by 5% by designing and implementing from scratch a payment tracking and early repayment feature, enabling customers to monitor their payment plan and pay in advance, improving transparency and payment flexibility.
+- Designed, developed, and launched a new theme in the Design System Team in our UI component system, enabling consistent branding and streamlined styling across five projects. This reduced the time for styling updates from hours to minutes, ensuring a consistent visual identity with cohesive colors, fonts, and components.
+
+ Node.js, React.js and +8 skills
+
+Tinkoff  logo
+Senior Frontend Engineer
+
+Tinkoff  · Full-time
+
+Sep 2021 - Dec 2022 · 1 yr 4 mos
+
+Moscow, Russia · On-site
+
+Top 3 Russian banks, 35 million clients, 60,000 employees.
+- Led (team of 5 engineers), designed, developed, and launched an urgent project from scratch without any bugs in production within a tight deadline for 30,000 engineers using Next.js, React, TypeScript, and JavaScript.
+- Broke down product requirements, selected a technology, mastered a new framework, designed a project and distributed tasks between engineers. As a result, my team and I successfully implemented and launched the project with tight deadlines and boosted our HR brand and the company’s recognition among engineers by 10% in an employee-centric market.
+- Reduced team code review time by 15% and enhanced code quality and performance by implementing a team style guide and unified ESLint rules for ten projects. That helps enforce code style guidelines, catch common coding mistakes, and ensure that my team(7 people) adheres to best practices to write high-quality and secure code.
+- Mentored front-end developers (60 students) at Fintech School.
+- Created hundreds of unit-, integration- and e2e-tests to make sure that the app works correctly and performance is top-notch.
+- Wrote simple database migrations by using Knex.js.
+
+ Continuous Integration and Continuous Delivery (CI/CD), CSS and +16 skills
+
+Avito logo
+Frontend developer with Leadership Responsibilities
+
+Avito · Full-time
+
+Sep 2019 - Aug 2021 · 2 yrs
+
+Moscow, Russia
+
+Avito is the biggest eCommerce in Russia, 150 million ads.
+- Responsible for critical functionality of a large-scale web application, including the main and search pages, along with all functionality related to the buyer's experience.
+- Took ownership of an unfinished(rough) large FinTech project from another team with many errors and completed, launched in 2 months while the previous team spent more than five months and hadn't finished. 
+- Successfully launched the urgent project with high uncertainty on time without any errors(bugs) in production by leading team, choosing a technology, learning a new framework, arranging meetings, prioritizing tasks, and distributing tasks between engineers.
+- Developed from scratch a big new feature Story (like Instagram’s story) in desktop and mobile versions for the main page Avito in 2 months, gathering 1 million monthly story views. That helped hold users and significantly boosted revenue at a time when coronavirus just started.
+- Decreased onboarding time for new software engineers by 5% by creating documentation on how to work with Avito's internal services. That helped dozens of employees and received gratitude from colleagues.
+
+ Continuous Integration and Continuous Delivery (CI/CD), CSS and +13 skills
+
+UCHi.RU logo
+UCHi.RU
+
+Full-time · 2 yrs 2 mos
+
+Moscow, Russia
+
+Team Lead
+
+Jun 2017 - Jul 2019 · 2 yrs 2 mos
+
+- Led a new team of 7 people, built processes, and effectively and quickly developed and launched digital content for the main product, which allowed the company to enter the market and gain a competitive advantage in a time of active company growth.
+- Interviewed candidates, onboarded, mentored 15 front-end engineers, 1:1s and developed plans.
+- Conducting code reviews and providing constructive feedback to team members.
+
+One of the largest Russian EdTech companies (more than 10 million users).
+
+Skills: CSS animation, CSS, +4 skills
+
+Frontend Engineer
+
+Jun 2017 - Nov 2017 · 6 mos
+
+On-site
+
+- Developed and maintained responsive user interfaces using Javascript.
+- Mentored and onboarded engineers.
+
+Skills: CSS animation, CSS, +5 skills
+
+Appolo 9
+
+Full-time · 1 yr 6 mos
+
+Moscow, Russia
+
+Frontend Engineer with Leadership Responsibilities
+
+Jul 2016 - May 2017 · 11 mos
+
+- Built scalable, reusable solutions end-to-end prototype-to-production using Javascript.
+- Developed and maintained scalable and performant web applications using JavaScript.
+
+Lead team of 3 frontend engineers and a UX designer:
+- Took ownership of the team's results.
+- Distributed tasks between 3 developers and a designer and kept track of deadlines.
+- Conducting code reviews and providing constructive feedback to team members.
+- Built scalable, reusable solutions.
+
+Skills: CSS, HTML, +3 skills
+
+Junior Frontend Developer
+
+Dec 2015 - Jun 2016 · 7 mos
+
+- Maintained the company's main website.
+- Built adaptive layout.
+- Worked with Canvas.
+
+Skills: CSS, HTML, +3 skills
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+Experience
+
+Deel logo
+Deel
+
+Contract · 5 yrs 4 mos
+
+Remote
+
+Tech Lead, Front-End
+
+Jan 2023 - Present · 3 yrs 9 mos
+
+- Lead the frontend for PayIns, owning core payment flows and user-facing features for global customers.
+
+- Design and evolve React/TypeScript/MobX architecture with a focus on clarity, performance, and long-term maintainability.
+
+- Collaborate closely with backend, product, and design to translate business requirements into reliable, scalable frontend solutions.
+
+- Contribute to Node.js services alongside backend engineers where needed for end-to-end delivery.
+
+- Set and maintain frontend coding standards and best practices for the team.
+
+- Mentor engineers, run code reviews, and support growth through feedback and pairing.
+
+- Participate in hiring by interviewing frontend candidates and helping shape the hiring bar.
+
+- Drive refactoring initiatives to reduce legacy code, simplify flows, and improve onboarding for new teammates.
+
+Skills: Leadership, JavaScript, +2 skills
+
+Frontend Developer
+
+Jun 2021 - Jan 2023 · 1 yr 8 mos
+
+As a Frontend Developer, I worked across multiple teams, including PayIns, Payouts, and Invoicing, developing user-friendly and scalable fintech solutions. My tech stack consisted of React.js, MobX, and TypeScript. I played a crucial role in improving performance, refactoring legacy code, and implementing new features to enhance the payments ecosystem.
+
+Skills: JavaScript, React.js, +1 skill
+
+Codemotion Ninjas logo
+Frontend Developer
+
+Codemotion Ninjas · Contract
+
+Oct 2020 - May 2021 · 8 mos
+
+As a Full-Stack Developer, I worked on multiple projects, adapting to diverse tech stacks and business requirements. On the frontend, I built applications using Next.js, React.js, and Redux, ensuring efficient state management and smooth user experiences. On the backend, I developed and maintained APIs using the Strapi framework, handling data modeling, authentication, and integrations with external services. My role involved full-cycle development, from designing features to deployment, ensuring high performance and scalability.
+
+ JavaScript, Next.js and +3 skills
+
+Adyax logo
+FrontEnd Developer
+
+Adyax · Full-time
+
+Aug 2016 - Oct 2020 · 4 yrs 3 mos
+
+Kyiv, Kyiv City, Ukraine, remote · Hybrid
+
+At Adyax, I primarily worked as a Frontend Developer, contributing to large-scale projects like SBM MonteCarlo and LofSelect. I developed complex web applications using Angular, Next.js, and React.js, focusing on building responsive UI components, optimizing performance, and enhancing user experience.
+
+In addition to my frontend work, I also gained backend experience with Drupal, where I contributed to API integrations, content management workflows, and custom module development. My role involved close collaboration with backend engineers, designers, and stakeholders to deliver scalable and maintainable solutions.
+
+ JavaScript, Next.js and +2 skills
+
+FFW logo
+FrontEnd Developer
+
+FFW · Full-time
+
+2014 – Jul 2016
+
+Dnipro, Dnipropetrovsk, Ukraine · On-site
+
+At FFW, I worked primarily on Drupal-based projects, focusing on frontend development, theming, and UI customization. My responsibilities included implementing custom Drupal themes, ensuring responsive designs, and improving site performance. I also handled various JavaScript tasks, enhancing interactivity, optimizing user experience, and integrating frontend components with Drupal’s backend. My role required close collaboration with backend developers and designers to deliver high-quality web solutions.
+
+ JavaScript
+
+FORFORCE / Digital Production logo
+Frontend Developer
+
+FORFORCE / Digital Production
+
+Jan 2013 - Oct 2014 · 1 yr 10 mos
+
+Dnipropetrovsk
+
+ JavaScript
+
+Html coding.
+
+Freelancer. HTML coder.
+
+Sep 2012 - Dec 2012 · 4 mos
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+Experience
+Senior Fullstack Developer 
+
+NDA, crypto igaming · Full-time
+
+Mar 2023 - Present · 3 yrs 7 mos
+
+Cyprus · Remote
+
+As a Senior Fullstack Developer at an NDA crypto iGaming infrastructure provider, I work on high-load gaming interfaces, Web3 payment flows, micro-frontends, white-label infrastructure, real-time sports dashboards, compliance rollouts, and AI-assisted CI workflows.
+The platform serves crypto casinos and sportsbooks with 100K+ daily players.
+Key achievements:
+• Led migration from a monolith to micro-frontends for auth, payment, and game modules with React, TypeScript, and Module Federation.
+• Cut time-to-market by 14% and enabled 4 teams to deploy independently.
+• Built white-label deployment infrastructure with a BFF layer, independent Vite releases in Docker containers, and CSS variables for partner branding.
+• Accelerated TTM by 19% and saved 124+ hours monthly on manual configuration.
+• Built on-chain payment UI for crypto deposits and withdrawals with React, viem.js, and wagmi.
+• Supported 100K+ daily transactions, reduced payment drop-offs by 4.2%, and cut backend API load by 3.4%.
+• Reduced media download latency by 34% using AWS S3 signed URLs and CloudFront caching.
+• Built live sports market dashboards processing 4,800+ SSE events per second with TanStack Query and optimistic updates.
+• Implemented Node.js middleware for geo-metadata parsing and Unleash-based feature flagging.
+• Automated AI-driven CI workflows with OpenAI Codex, Playwright, and Claude Sonnet, saving 38 hours weekly.
+Key responsibilities:
+• Built scalable fullstack features for crypto iGaming products.
+• Designed micro-frontend architecture, BFF layers, Web3 payment flows, and real-time dashboards.
+• Improved performance, compliance rollout safety, and release automation.
+Technologies:
+• Frontend: React, TypeScript, TanStack Query, Module Federation
+• Backend: Node.js, BFF, middleware
+• Web3: viem.js, wagmi
+• Cloud/DevOps: AWS S3, CloudFront, Docker, GitLab CI
+• AI tools: OpenAI Codex, Claude Sonnet
+
+ React, TypeScript and +3 skills
+
+iGaming Company (NDA) logo
+Senior Fullstack Developer 
+
+iGaming Company (NDA) · Full-time
+
+Jan 2020 - Mar 2023 · 3 yrs 3 mos
+
+Malta · Remote
+
+As a Senior Fullstack Developer at an NDA iGaming platform, I worked on white-label gaming infrastructure, shared UI systems, real-time balance synchronization, authentication, SSR migration, wagering widgets, AML/KYC flows, and multilingual market expansion.
+The platform served multiple white-label brands across 30+ regional markets.
+Key achievements:
+• Architected a shared UI Kit with React, MUI, Pixi.js, and Feature-Sliced Design.
+• Published the UI Kit as an npm package via CDN across 8 brand-specific apps, cutting TTM for new launches by 16.4%.
+• Built a Node.js orchestrator unifying JWT authentication and real-time balance sync via WebSockets across 15 iframe-based game providers.
+• Eliminated cross-domain session bugs that previously blocked 8% of deposits.
+• Migrated main funnel pages to Next.js SSR and SSG with optimized hydration and route-based code splitting.
+• Improved Lighthouse score from 61 to 83 and reduced bounce rates by 17.6%.
+• Built real-time wagering-progress widgets with React, WebSockets, Chart.js, and GSAP animations.
+• Raised bonus engagement by 18.3% and improved 30-day retention by 11.7%.
+• Built Zod-validated form pipelines and React hooks for AML and KYC verification flows.
+• Reduced fraudulent sign-up attempts by 22% and lifted correct submission rate by 14%.
+• Shipped multilingual support across 30+ locales using i18next with gRPC metadata propagation.
+Key responsibilities:
+• Built shared frontend architecture and real-time product workflows for white-label iGaming apps.
+• Integrated game providers, authentication, balance sync, AML/KYC flows, and multilingual routing.
+• Improved performance, UX reliability, launch speed, and regional market readiness.
+
+ JavaScript, React and +5 skills
+
+Home Credit Bank logo
+Senior Fullstack Developer 
+
+Home Credit Bank · Full-time
+
+Nov 2017 - Jan 2020 · 2 yrs 3 mos
+
+Remote
+
+Eliminated XSS, CSRF, HTTP Response Splitting, and CORS misconfigurations and introduced Double Hashing across authentication flows, which enabled the platform to pass government compliance audits.
+Built suspicious activity monitoring dashboards for compliance teams As a Senior Fullstack Developer at Home Credit Bank, I worked on consumer finance interfaces, payment widgets, suspicious activity monitoring, secure authentication flows, banking UI systems, frontend testing, and production monitoring.
+Home Credit Bank is a multinational consumer finance bank with 30M+ customers across 9 European and Asian markets.
+Key achievements:
+• Eliminated XSS, CSRF, HTTP Response Splitting, and CORS misconfigurations across authentication flows.
+• Introduced Double Hashing and helped the platform pass government compliance audits.
+• Built suspicious activity monitoring dashboards for compliance teams with React, TypeScript, Recharts, React Query, and WebSocket feeds.
+• Reduced manual transaction verification time by 34% across 200+ analysts.
+• Developed embedded payment widgets with secure iframe integrations and WebSocket-based real-time transaction updates.
+• Increased completed payment flows by 14.2% and reduced drop-offs by 17%.
+• Created a reusable banking UI component library on Material UI with mobile-first BEM styling.
+• Accelerated delivery of payment screens and increased mobile engagement by 26%.
+• Raised frontend test coverage from 62% to 94% by integrating Jest and Cypress into GitLab CI/CD.
+• Reduced regression issues across payment and auth modules.
+• Integrated Sentry monitoring for deposits, withdrawals, and third-party provider integrations.
+Key responsibilities:
+• Built secure consumer finance interfaces and payment workflows.
+• Improved authentication security, compliance readiness, real-time monitoring, and frontend quality.
+• Developed reusable banking UI components and production monitoring workflows.
+
+ CSS, React and +7 skills
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+
+Experience
+UBS logo
+Senior Frontend Developer
+
+UBS · Contract
+
+May 2024 - Present · 2 yrs 5 mos
+
+Remote
+
+- Extracted sign-in, account recovery and flows into a versioned Module Federation micro-frontend, now reused by 3 platform teams
+- Initiated the migration of our micro-frontend to Feature-Sliced-Design with ESLint-enforced import biundaries.
+- Revived unit testing with Jest and React Testing Library, raising coverage from 23% to 68% in a year, and
+added pre-commit hooks and type checks to CI.
+- Cut time to first data on the corporate deposit agreements page from 10s to 4s by splitting RTK Query requests into priority and background loads
+- Migrated the investor UI to a custodial model over REST and RTK Query, moving signing to the backend so
+investors no longer need a hardware key.
+- Snipped the issuance flow for a new smart-contract-type (React Hook Form, Zod) that reads contract state from the blockchain; issuances on it have reached ~$14M.
+- Launched online deposit opening for corporate clients with a rate-linked yield calculator, accrual charts and application drafts  React Hook Form, Zod, Recharts), with 10,000+ agreements opened in the first six months 
+
+Technologies 
+React, TypeScript, Javascript, React Query, Redux Toolkit, Module Federation, Micro-frontends, Feature-Sliced-Design, Webpack, React Hook Form, Zod, Rest APIs, Blockchain, IndexedDB, Recharts, i18next, Jest, React Testing Library, Husky, GitLab CI, SCSS, CSS Modules, Git, Figma
+
+Thumbnail for Our financial services in the United States of America
+Our financial services in the United States of America
+
+ Веб-разработка, Webpack and +20 skills
+
+bp logo
+Frontend Developer
+
+bp · Contract
+
+Sep 2022 - Apr 2024 · 1 yr 8 mos
+
+Remote
+
+- Built the frontend of a legally binding document-approval workflow from scratch as the sole frontend engineer (React, Typescript, Effector), used by ~1,000 employees
+- Raised Lighthouse from 32 to 84 by moving fonts to WOFF2, the LCP image to WebP and the build to Preact
+- Virtualized capital-project registries on AG-Grid so users scroll 1M+ rows without freezes
+- Integrated in-browser e-signing through a PKI crypto plugin with inline preview of scans and Offline files, so approvers review and sign attachments right in the document card
+- Delivered a stage-by-stage cost editor for capital construction projects on GraphQL, replacing budget consolidation in Excel
+Technologies: React.js, TypeScript, JavaScript, Eﬀector, Redux Toolkit, GraphQL, REST APIs, AG Grid, Preact, Webpack, Jest, SCSS, CSS Modules, GlitchTip, Lighthouse, Git, Figma
+
+Thumbnail for BP
+BP
+
+ Material-UI, SASS and +16 skills
+
+EPAM Systems logo
+Frontend Engineer
+
+EPAM Systems · Full-time
+
+Jun 2020 - Aug 2022 · 2 yrs 3 mos
+
+Tbilisi, Georgia · Remote
+
+- Engineered a back-office admin panel from scratch on Refine and Ant Design (React, Typescript) with profile management, auth and editing forms and a multi-language UI
+- Developed the storefront catalog for a retail client on Next.js with SSR,  Redux Toolkit and Zustand, turning Figma designs into catalog and order-form pages and TypeScript in Agile teams. 
+- Introduced custom ESlint rules and Prettier to enforce one code style across the team
+
+Technologies: React, Next.js, TypeScript, Javascript, Redux Toolkit, Refine, Zustand, Ant Design, React Query (Tanstack Query), i18next, HTML5, CSS3, SCSS, Webpack, ESlint, Prettier, Figma, Git
+
+Thumbnail for EPAM
+EPAM
+
+ Next.js, React.js and +13 skills
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+
+Experience
+bunq logo
+Lead Front-end Engineer
+
+bunq
+
+Oct 2025 - Present · 1 yr
+
+Netherlands
+
+● Led the evolution of a unified frontend platform for React and Angular applications, defining architectural standards and engineering best practices across teams 
+● Steered the technical roadmap and provided architectural direction for a 5-member frontend team, aligning technical decisions with business goals and advocating for best practices 
+● Improved micro-frontend delivery reliability for a corporate lending domain team serving clients with $5B+ turnover 
+● Spearheaded the development of shared UI components library, personally mentoring junior members on unit-test coverage standards and modern Angular signals and zoneless architectures. Reached a 15% improvement in overall library robustness
+
+ React
+
+Front-end Engineer 
+
+Societe Generale Group | Banking
+
+Feb 2024 - Mar 2026 · 2 yrs 2 mos
+
+Central & East Asia · Remote
+
+● Led the frontend integration of an acquired banking entity into the core platform, successfully migrating 5+ critical card and account operations with zero customer churn for high-value clients ($10M+) 
+● Implemented feature-flag coverage across legacy and new functionality, reducing downtime during critical incidents by 12% 
+● Enforced rigorous code review standards to maintain codebase health, subsequently integrating an AI-assisted workflow that reduced team feedback loops from 20 to 3 minutes without compromising security. 
+● Onboarded 3+ engineers, cutting ramp-up from 2–3 months to 1 month for process with $5M+ annual profit
+
+Thumbnail for Thumbnail
+Thumbnail for Thumbnail
+Thumbnail for Thumbnail
+ i18n, Gitlab and +5 skills
+
+Front-end Engineer
+
+MOBILE TELECOM SYSTEMS | Telecommunications
+
+Jun 2022 - Jan 2024 · 1 yr 8 mos
+
+Armenia · Remote
+
+● Led the consolidation of the department’s frontend applications into a single Nx monorepo, standardizing implementation patterns and improving design consistency across tools used by 500+ managers 
+● Implemented Playwright-based E2E coverage for 400+ user scenarios and improved test execution speed by migrating unit tests from Jest to Vitest. Used Nx Cloud sharding to reducing feedback loops for 10 devs and cutting pipeline costs by 40% 
+● Architected a modular migration strategy for a legacy system and reduced rendering time by 4+ seconds
+
+Thumbnail for Thumbnail
+Thumbnail for Thumbnail
+Thumbnail for Thumbnail
+ Jest, Azure DevOps Server and +5 skills
+
+Front-end Engineer 
+
+Data Analytics Agency | Real-time data processing services
+
+Feb 2021 - May 2022 · 1 yr 4 mos
+
+United Arab Emirates · Remote
+
+● Developed and standardized a shared UI-Kit following WCAG 2.1 AA guidelines, supporting 100+ developers 
+● Implemented API contract generation from Swagger/OpenAPI definitions, improving delivery speed and reducing contract-related bugs by 7% 
+● Migrated data-heavy interfaces with 50K+ rows from custom table solution to AG Grid, improving usability and maintainability
+
+Thumbnail for Thumbnail
+Thumbnail for Thumbnail
+Thumbnail for Thumbnail
+ PrimeNG, AG Grid and +3 skills
+
+KPMG logo
+Front-end Engineer 
+
+KPMG
+
+Jan 2019 - Jan 2021 · 2 yrs 1 mo
+
+CIS · On-site
+
+● Prepared technical specifications and delivery roadmaps for enterprise clients 
+● Implemented automation solutions to streamline client data update processes
+
+ ESLint, Jira and +3 skills
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+
+Experience
+Angular Developer
+
+pognali.ru · Full-time
+
+Aug 2024 - Present · 2 yrs 2 mos
+
+Moscow, Russia · Remote
+
+Travel-Focused Social Network
+Tech stack: Angular 16-20, Angular Material, SSR, Capacitor, MapTiler, ProseMirror
+
+- Spearheaded performance optimization initiatives, migrating critical UI components to Angular Signals and resolving legacy change detection issues
+
+- Achieved a 30% reduction in initial bundle size and decreased page load times from minutes to seconds by implementing smart asset preloading, image optimizations, and code-splitting
+
+- Developed interactive high-performance map components using MapTiler and GeoJSON for smooth rendering of complex geolocation data
+
+- Built a custom rich-text editor using ProseMirror, fully integrated with Angular Reactive Forms, enabling custom content publishing
+
+- Resolved complex Server-Side Rendering (SSR) hydration issues across multiple routes to ensure consistent SEO indexing and fast initial load times
+
+- Enhanced code quality and consistency by introducing an internal style guide and Prettier rules
+
+ Angular, Angular Material and +3 skills
+
+Ryware logo
+Angular Developer
+
+Ryware · Full-time
+
+Jan 2024 - Aug 2024 · 8 mos
+
+Petah Tikva, Center District, Israel · Remote
+
+Enterprise dual-language E-commerce Platform
+Tech stack: Angular, Angular Material, Tailwind CSS, NgRx SignalStore, Firebase, i18n (LTR/RTL), SSR, Playwright/Cypress 
+
+- Refactored and modernized a complex dual-language Angular application supporting complete RTL/LTR localization (English & Hebrew) to meet accessibility standards
+
+- Migrated complex state from NgRx to SignalStore, reducing boilerplate and improving reactivity
+
+- Led full UI redesign using Angular Material and Tailwind based on new design system
+
+- Worked with Firebase Authentication: handled auth state, conditional routing, and UI behavior
+
+- Wrote e2e tests using Playwright to verify core user flows after major refactors
+
+- Improved accessibility, SEO, and performance (Lighthouse score from 40 to 80)
+
+ Angular, Angular Material and +4 skills
+
+Yandex Practicum logo
+Education Mentor
+
+Yandex Practicum · Contract
+
+Sep 2023 - Apr 2024 · 8 mos
+
+Moscow City, Russia · Remote
+
+- Mentored 2 groups of ~12 aspiring software developers, providing technical guidance on modern web technologies, React/Next.js, and backend integration
+
+- Conducted weekly interactive technical webinars, live coding sessions, and Q&A workshops to explain complex architectural concepts and deployment patterns
+
+- Evaluated and performed thorough Code Reviews on student graduation projects, teaching clean code conventions and professional debugging techniques
+
+ JavaScript, React.js and +2 skills
+
+Freelance Frontend Developer
+
+Freelance · Part-time
+
+Feb 2020 - Sep 2023 · 3 yrs 8 mos
+
+Kaliningrad, Russia · Remote
+
+- Designed, built, and launched a highly responsive PWA travel guide using Vue, Nuxt, and Strapi CMS, achieving high mobile engagement
+
+- Engineered and deployed custom interactive Telegram bots utilizing Node.js, Express, and MongoDB to automate registration workflows
+
+- Developed and delivered lightweight, SEO-optimized, and responsive landing pages for diverse local businesses
+
+ JavaScript, Vue.js and +3 skills
+
+
+\\\\\\\\\\\\\\\\\\\\\
+*********************
+*********************
+*********************
+/////////////////////
+
+
+
+Experience
+Alfa-Bank logo
+Frontend Engineer
+
+Alfa-Bank · Full-time
+
+Aug 2026 - Present · 2 mos
+
+Remote
+
+Lantan logo
+Frontend Engineer
+
+Lantan · Full-time
+
+Mar 2025 - Jul 2026 · 1 yr 5 mos
+
+Remote
+
+B2C Platforms (Ticketing, Airline Microfrontends, Widget)
+
+- Owned frontend architecture and delivery across multiple B2C products (5M+ MAU), including high-load ticketing platform, airline microfrontend system, and embeddable widget
+- Launched microfrontend architecture from scratch (Module Federation), aligning solutions with system architect
+- Led and coordinated a team of 10 developers: planning, decomposition, code reviews, and delivery ownership
+- Migrated legacy systems to scalable microfrontend-based architecture
+- Improved performance: -50% first paint, -35% bundle size, ~1.8s load time → +9% conversion
+- Built isolated frontend development via mocks, reducing backend dependency and accelerating delivery
+- Improved engineering quality: increased test coverage (10% → 80%), introduced linting and unified standards
+
+Stack: React, TypeScript, Next.js, Vue 3, Module Federation, Redux Toolkit, RTK Query, Pinia, SCSS
+Tools: GitLab, Jira, Figma
+
+ Jest, Zustand and +10 skills
+
+True Engineering logo
+Senior Web Developer
+
+True Engineering · Full-time
+
+Oct 2023 - Feb 2025 · 1 yr 5 mos
+
+Hybrid
+
+International Aviation B2B Platform (deployed across 20+ cities in multiple countries)
+- Decomposed and estimated large-scale features for a multi-country B2B application 
+- Built key production functionality and maintained a shared UI component library 
+- Wrote unit tests (Vitest) and contributed to code quality through regular code reviews 
+- Mentored junior developers and conducted technical interviews
+
+Stack: React, TypeScript, Zustand, JSS, Vitest 
+Tools: Figma, Azure DevOps (TFS)
+
+ Jest, Zustand and +21 skills
+
+Noveo Group logo
+Noveo Group
+
+2 yrs 9 mos
+
+Frontend Developer
+
+Full-time
+
+Jun 2021 - Oct 2023 · 2 yrs 5 mos
+
+Hybrid
+
+Development of a frontend application on React:
+- Creation of user interfaces, reusable and extensible functional components.
+- Solving organizational tasks
+- Teamwork and code review
+- Stylization of components using styled components
+- Using RTK query in conjunction with axios
+
+Stack: React, TypeScript, RTK query, CSS, Git, styled components
+Environment: Figma, GitLab, Jira(Scrum)
+
+Development of a desktop utility on React + Electron:
+- Designing a desktop application in conjunction with React + Electron
+- Building the client part of the application
+
+Stack: React, Electron, Redux tool kit, TypeScript, Flowbite React
+Environment: GitLab
+
+Development of a desktop utility on React + Tauri:
+- Rewriting a ready-made application written in Electron on Tauri + Vite
+- Refactoring the application
+- Setting up GitLab CI/CD, for linter, tests, builds for all systems (macOS, ubuntu, windows)
+- Configuration and writing logic using Rust
+
+Stack: React, Tauri, Rust, TypeScript, Flowbite React, Redux tool kit
+Environment: GitLab
+
+ Zustand, Next.js and +20 skills
+
+Frontend Developer Intern
+
+Internship
+
+Feb 2021 - May 2021 · 4 mos
+
+Remote
+
+During the internship, I made a SPA on React JS using Redux and additional libraries, eventually I got a ready-made react application for convenient interaction between teachers and students.
+
+ Zustand, Next.js and +16 skills
+
+
+
+
+
+
+
+
+
+
+
+
+
