@@ -1,0 +1,55 @@
+TOP SKILLS (pinned in About, max 5)
+React.js • Vue.js • TypeScript • Nuxt.js • Server-Side Rendering
+
+
+TOOLS & TECHNOLOGIES
+Skill — linked experiences
+
+JavaScript — all roles
+TypeScript — TVIL 2026, B1, Think 24
+Vue.js — TVIL 2026, TVIL 2020, One Touch
+Nuxt.js — TVIL 2026, TVIL 2020
+React.js — B1, Think 24, Bank Information Systems, One Touch
+Composition API — TVIL 2026
+Vuex — TVIL 2026, TVIL 2020
+Pinia — TVIL 2026
+Zustand — B1, Think 24
+TanStack Query — B1
+Server-Side Rendering — TVIL 2026, TVIL 2020
+Vite — B1, Think 24
+Vitest — B1
+Jest — Think 24
+Playwright — TVIL 2026, B1
+Docker — TVIL 2026
+SASS — TVIL 2026, TVIL 2020
+REST API — B1
+Yandex Maps — B1
+Model Context Protocol (MCP) — B1
+jQuery — One Touch
+HTML5 — One Touch, University
+CSS3 — One Touch, University
+Git — all roles
+Node.js — Skillbox certificate
+
+
+PRACTICES & INTERPERSONAL
+Front-End Development — all roles
+Responsive Web Design — TVIL 2026, TVIL 2020, One Touch
+Web Accessibility — TVIL 2020, One Touch
+Team Leadership — TVIL 2020, B1
+Code Review — TVIL 2026, TVIL 2020, B1
+Requirements Analysis — B1, Think 24
+Stakeholder Management — B1, Think 24
+Problem Solving — all roles
+Communication — all roles
+
+
+RULE
+A skill is linked to a role only if it appears in that role's description or stack in Experience.
+
+REMOVED (and why)
+Vue 2/3, Nuxt 2/3 — custom names, duplicates of Vue.js / Nuxt.js, not matched by recruiter search
+FSD — no real expertise
+TinyMCE — removed from profile
+Domain-Driven Design — not backed by experience
+Clean Coding, Adaptability — generic, no signal
