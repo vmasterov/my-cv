@@ -1,0 +1,15 @@
+After months of job hunting, I put together a few takeaways that might save time and nerves for anyone in a similar situation.
+
+- Don't rush to leave your current job. Test the market first: make sure the roles you want actually exist and the pay matches your expectations.
+- If you've suddenly found yourself without a job, accept that the search will be tough (link to previous posts).
+- While posting your resume on job sites, send it to your colleagues right away. The recruiters I spoke with during screenings said they give priority to referred candidates.
+- If you want to try freelancing, it's easier to do while you still have a steady income. Start by signing up on freelance platforms and seeing how this kind of work actually goes. You may end up disappointed.
+- I don't have a recipe for the perfect resume. For experienced developers, my advice is to describe your experience honestly and not let AI write everything for you: give it your key points, then check and edit the wording it suggests.
+- It's harder for developers without experience. Companies are reluctant to consider them, and they get stuck in a vicious circle. It's always been this way, but it feels sharper now. To get a foothold in the profession, it's better to play it straight: build a portfolio, network, and do internships. It takes longer and won't pay much at first, but it gives you a solid foundation.
+- If you've never done live coding before, a week between the first HR call and the technical screening is unlikely to be enough practice. It's better to solve 2–3 problems a day on a regular basis, so these tasks don't trip you up in interviews.
+
+The IT market will keep changing, and those who can adapt will stay in the game. It's unpleasant, but natural.
+
+I'd like to believe hiring won't turn into a battle between AI writing resumes and AI screening them. And that mentors won't become the only go-between for candidates and employers, the way real estate agents have in big cities.
+
+How do you see the future of the IT market?

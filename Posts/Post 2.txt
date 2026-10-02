@@ -1,0 +1,19 @@
+In my previous post, I described the "joys" of job hunting in today's market. Here's how the story ended.
+
+At first, I was looking for senior roles with the salary I wanted, at companies that qualified for Russia's subsidized IT mortgage program. Those openings ran out pretty quickly, and I started bargaining with myself: "What if I switch from the subsidized rate to the market rate?" "The pay is lower here, but the company qualifies." "What if I join as a middle engineer, with room to grow?" By then I had gone through almost every active opening, so I simply checked the job sites and applied to anything new. During this period, I didn't get a single interview.
+
+More than three months into the search, I was feeling down. Not so much because of how long it was taking, but because there were no results at all and the outlook wasn't great.
+
+My financial cushion had worn thin — more of a pillowcase than a cushion by then. I had to decide what to do next. I have teaching experience, so maybe private lessons, or going back to the university where I started my career? Becoming a freelancer and working for myself? Or signing up as a food delivery courier?
+
+Freelancers and tutors need to build a client base and a portfolio, so at first you work almost for free. Nobody was waiting for me back at the university. Only the courier job promised a flexible schedule, steady income and plenty of fresh air.
+
+And then I remembered my colleagues, former and current. That's where I should have started, but I had never used my network to find a job, so the idea didn't come to me right away.
+
+I sent personal messages to all my colleagues. Many of them replied, and that felt good.
+
+A couple of days later, I had an offer. The product I'll be working on has real users. It's a mature, self-sustaining application with tasks ranging from new features to refactoring legacy code, so there will be no time to get bored.
+
+The company qualifies for the IT mortgage, and the requirements and tech stack are clear to me. Mission accomplished, even though it took far more time and nerves than I expected at the start.
+
+Do you rely more on networking or job sites when looking for work?
