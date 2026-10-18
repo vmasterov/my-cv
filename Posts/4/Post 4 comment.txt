@@ -1,0 +1,8 @@
+Technically, the app uses an extended finite state machine (EFSM). On top of the modes, it keeps variables: the workday boundaries, the start of the current segment, and a count of completed work segments. Transitions have guard conditions (you can start work only if the day isn't over yet), and the transitions themselves update the variables (the count goes up by one each time you start a break). Without variables, you'd have to multiply states: WORK_1, WORK_2…
+
+Further reading:
+Finite state machine — https://en.wikipedia.org/wiki/Finite-state_machine
+Extended finite state machine — https://en.wikipedia.org/wiki/Extended_finite-state_machine
+Discriminated unions in TypeScript — https://www.typescriptlang.org/docs/handbook/2/narrowing.html#discriminated-unions
+
+For five flat modes, a hand-written reducer is enough. If you need nested or parallel states, delayed transitions, or visualization, take a look at XState — https://github.com/statelyai/xstate

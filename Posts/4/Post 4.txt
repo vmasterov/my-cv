@@ -1,0 +1,35 @@
+A work-and-break timer looks like a simple task until you start storing its state.
+
+I built an Android app for myself with React Native + Expo and TypeScript. It splits the workday, say 9 AM to 6 PM, into work and break segments and reminds you to take breaks. It has five modes: setup, waiting for the day to start, work, break, and end of day. Using it as an example, I'll walk through three ways to model state, along with their strengths and weaknesses.
+
+1. Flags
+isRunning, isResting, isFinished, plus handlers that toggle them.
+— Three flags give 8 combinations, and only half of them make sense. What does isRunning and isResting at the same time mean?
+— Transition rules are scattered across handlers: when starting a break, you have to remember to reset isRunning.
+— The screen is picked by a chain of ifs, and the order of the checks decides any conflicting combination.
+
+2. A finite state machine on a status field
+A single status: 'setup' | 'pending' | 'work' | 'rest' | 'finished' field and a reducer that switches on it.
+— All modes are listed in the type: the compiler rejects a typo like 'wrok' or any mode that isn't on the list.
+— A never check in default: if you add a new mode to the type and forget to handle it in the reducer, the project won't build.
+— Transitions live in one place, and the whole state is a single object that's easy to save and restore after Android kills the app.
+
+But the data for every mode sits in that object as optional fields: dayEndsAt?, restStartedAt?, restType?.
+— Inside case 'rest', the break type can still be undefined even though a break must always have one, and the code fills up with ! and ?.
+— The compiler accepts { status: 'work', restType: 'long' } even though work has no break type: the data isn't tied to the mode at all.
+
+3. A finite state machine + a discriminated union
+Each mode has its own type with its own fields and a shared state tag. Setup has neither an end of day nor a break, and restType and restStartedAt exist only on the break.
+— Once you check state, TypeScript knows exactly which fields are available, so there's no need for ! or ?.
+— A "break with no start time" can't even be constructed.
+— If you forget to carry a field over in a transition, you get a compile error, not undefined at runtime.
+— The cost is verbosity: every transition rebuilds the object with all the fields of the new mode.
+
+So which one should you choose?
+— Flags work when they're independent, for example, sound and fullscreen in a video player don't affect each other.
+— A status field without a union is enough when modes have no data of their own.
+— A discriminated union is needed when each mode has its own fields.
+
+Do you use state machines in your work?
+
+#frontend #TypeScript #ReactNative #SoftwareArchitecture #StateMachine
